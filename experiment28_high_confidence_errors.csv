@@ -1,0 +1,17 @@
+text,true_label,true_emotion,predicted_label,predicted_emotion,confidence,second_best_confidence,margin,correct
+i feel needy but comfortable with it i feel vulnerable but secure i feel the urge to cum hard but i get no relief,0,Sadness,4,Fear,0.9463412201283227,0.028837880871266878,0.9175033392570557,False
+im feeling generous today heres one more you may have already seen but is good for a chuckle,2,Love,1,Joy,0.8281726324668401,0.07374642582834373,0.7544262066384964,False
+i am truly unfortunate the majority of the time i m usually drained but i obtain it hard to get from bed i really feel restless and others,4,Fear,0,Sadness,0.9400089557965854,0.03958319057180733,0.900425765224778,False
+i will practice meditation if i feel overwhelmed and hopefully become successful in peaceful practice,5,Surprise,1,Joy,0.9811522952001681,0.008184833162172318,0.9729674620379958,False
+i feel so blessed and honored that we get to be its parents,2,Love,1,Joy,0.97319307531371,0.01396808405834824,0.9592249912553618,False
+i am feeling stressed and more than a bit anxious,3,Anger,4,Fear,0.803993437443801,0.08730741061290259,0.7166860268308984,False
+i have nostalgic feelings i have met wonderful people online and the online internet is for me like my second life,1,Joy,2,Love,0.8146308364337,0.10641719908639947,0.7082136373473006,False
+im much more peaceful and happy when the house is clean the food is good and my kids arent feeling needy,0,Sadness,1,Joy,0.8701141171784816,0.08217233997913663,0.787941777199345,False
+i feel completely distracted and emotionally drained,3,Anger,0,Sadness,0.9205707800483697,0.06499508704114622,0.8555756930072235,False
+i have not conducted a survey but it is quite likely that many of them feel as assaulted by onel s demons and other creators as i would have felt had the walls been covered only with eminent figures patriotic heroes and epic deeds,0,Sadness,4,Fear,0.8074841378479863,0.05008949138398885,0.7573946464639975,False
+i feel that passionate about,1,Joy,2,Love,0.8218817328468567,0.10859787177407672,0.71328386107278,False
+i first started reading city of dark magic i thought it would be a challenge to actually enjoy it since i felt like the content about famous classical music was over my head but luckily after plowing through the first chapter i became more confident and started feeling less dumb,0,Sadness,1,Joy,0.8514942826071737,0.04014797859665827,0.8113463040105154,False
+i was like should i feel sweet or feel offended,2,Love,3,Anger,0.9926885233526007,0.004485225940723066,0.9882032974118776,False
+i cannot even begin to express in words the depth of sorrow that i feel having not posted any of my ludicrous rants over the passed days,5,Surprise,0,Sadness,0.8001623687338172,0.07633167429192332,0.7238306944418939,False
+i guess no matter how much i think im feeling ok im as nervous as hell on the inside about the scan revealing something i dont want to know again,1,Joy,4,Fear,0.8301254284265805,0.04959283024666524,0.7805325981799153,False
+i feel inside cause life is like a game sometimes but then you came around me the walls just disappeared nothing to surround me and keep me from my fears im unprotected see how ive opened up youve made me trust,4,Fear,0,Sadness,0.856648249712133,0.045442108662765934,0.8112061410493672,False

@@ -1,0 +1,69 @@
+text,true_label,true_emotion,predicted_label,predicted_emotion,confidence,second_best_confidence,margin,correct
+i feel if i completely hated things i d exercise my democratic right speak my mind in what ever ways possible and try to enact a change,3,Anger,0,Sadness,0.3262159881124219,0.23206948361777008,0.09414650449465184,False
+i was feeling pretty anxious all day but my first day at work was a very good day and that helped a lot,4,Fear,1,Joy,0.3536051111389143,0.256361484203212,0.09724362693570232,False
+i feel a bit stressed even though all the things i have going on are fun,3,Anger,0,Sadness,0.2971072460960457,0.22663484087391478,0.07047240522213094,False
+i feel my heart is tortured by what i have done,3,Anger,4,Fear,0.3710582114289822,0.24727413794751085,0.12378407348147136,False
+i looked at mabel this morning i named my left breast mabel my right one is hazel and i feel this weird mixture of anger and loss valerie wrote less than a month after her diagnosis,4,Fear,5,Surprise,0.26541577329272914,0.24557637362594448,0.019839399666784663,False
+i feel that i need to know that i can depend on myself before i put myself in the position of supporting someone else and being supported by someone else,2,Love,1,Joy,0.29697170170036225,0.28416723720425335,0.012804464496108892,False
+i was quite surprised with the weather these past few days but im so thankful for that since i still can wear my shorts out without feeling that cold yes no kidding,3,Anger,1,Joy,0.36237609171645885,0.2694260839928943,0.09295000772356454,False
+i just feel are ludicrous and wasting space or so trite they should have looked at the book first and come up with something a little more original,5,Surprise,0,Sadness,0.26322480609896476,0.2423333719403501,0.020891434158614663,False
+i will nolonger tell anybody how i feel or what im thinking cause all it seems to do is get me more hated than i already am,0,Sadness,3,Anger,0.341374056571446,0.1654086617192046,0.17596539485224139,False
+i believe that feeling accepted in a non judgemental way can be healing,1,Joy,2,Love,0.3377203506030606,0.28548921211372147,0.052231138489339135,False
+i suppose if one was feeling generous one could say i was stressed by the elevator ride,1,Joy,2,Love,0.2518983308948845,0.1766345273340692,0.0752638035608153,False
+i carried my phone in my pocket and didn t feel the pull to get lost in it,0,Sadness,1,Joy,0.3759980926918832,0.1616925078279345,0.2143055848639487,False
+i feel quite passionate about and that is how old should children be to undergo beauty treatments,1,Joy,2,Love,0.36408330248226056,0.2723172346277368,0.09176606785452374,False
+i have been sitting at home revising today and all in all feeling quite stressed,3,Anger,0,Sadness,0.3758329605805811,0.16677376738242625,0.20905919319815483,False
+i had to continue to enforce my no playdate policy which meant i continued to feel angry twice over each day once during a horrible morning drop off and once in the afternoon when i reminded noah that no he couldnt play because of the bad drop off missing mommy,3,Anger,0,Sadness,0.39401676195233165,0.3729020512002403,0.02111471075209137,False
+i hate feeling like this this is bullshit ok i m so done bye,1,Joy,0,Sadness,0.3206951581821184,0.23751856248377384,0.08317659569834457,False
+i cant do strappy shoes at work i just feel weird so i took these off thrifted ninewest,4,Fear,5,Surprise,0.35470388508902273,0.2708865831989354,0.08381730189008735,False
+i believe that people should choose the causes they feel passionate about and do what they can and i have no right or desire to push my own charities as more worthy than another,1,Joy,2,Love,0.38967877575485893,0.3282511460119503,0.06142762974290861,False
+i feel about as helpless and superfluous as i did when jenn had elaine naturally,4,Fear,0,Sadness,0.35565796493255303,0.2073872180597133,0.14827074687283973,False
+i thought i didnt feel anything anymore it was over it was ok well today a different story i feel him i want him my heart hurts thinking he wont be around i still want him around i guess its still valid,1,Joy,3,Anger,0.27987636709056407,0.2706536567980214,0.00922271029254268,False
+i watched the news at the tv,3,Anger,0,Sadness,0.22050410444120816,0.16196769708695158,0.05853640735425658,False
+i get people asking me what it feels like to be the most hated man in dallas county said assessor steve helm,0,Sadness,3,Anger,0.3675103053618664,0.17774667436429256,0.18976363099757385,False
+i started feeling a little stressed about leaving on time and making sure we got the getting ready pictures i wanted but everything seemed to workout perfectly,3,Anger,1,Joy,0.2888901995184408,0.282151384509095,0.006738815009345811,False
+i couldnt help feeling for him and this awful predicament he lives with on a daily and nightly basis and i was just so glad that once bel started to see the light he stuck it out and stood by daniel whilst no one else did including his family who im afraid i got really disgusted with,0,Sadness,3,Anger,0.262047793960461,0.25643108384712493,0.0056167101133360875,False
+i feel thats just strange on wotcs behalf,5,Surprise,4,Fear,0.2836980109133584,0.22309985888738407,0.06059815202597432,False
+i can say is that as long as you enjoy the story it entertains you and makes you feel emotional whether it be sad happy angry disgusted or just plain horny then who really gives a damn,0,Sadness,3,Anger,0.3837716985214731,0.2937652791112863,0.09000641941018678,False
+told by some people the class leader only choose his friends not true,3,Anger,1,Joy,0.23297668571414196,0.20974649474635257,0.023230190967789388,False
+i couldnt feel more blessed at this time,1,Joy,2,Love,0.28408911695110906,0.23481535036575366,0.0492737665853554,False
+i notice how different this question is from why i am feeling so agitated,4,Fear,3,Anger,0.37943401032193513,0.34187306498815806,0.037560945333777074,False
+whenever i put myself in others shoes and try to make the person happy,3,Anger,1,Joy,0.39550544952343947,0.15344094517698906,0.2420645043464504,False
+i feel like if people accepted that wed get along a lot better,2,Love,1,Joy,0.3880579860759813,0.2303573773597382,0.15770060871624308,False
+i was lying in bed last night after a day of making experiments from the usual suspects fabric plastic and feeling agitated that my issues with proper presentation had not made any headway over the course of a mere six hours,3,Anger,4,Fear,0.35859005584093573,0.19944626251604297,0.15914379332489276,False
+i was feeling like i said humour gets me through im one of those people who even if i spoke about my issues no one would be too bothered or would care that thought was in my head and wasnt true that way of being like i dont want to burden you sort of thing,3,Anger,0,Sadness,0.3455198945014469,0.336994733674915,0.008525160826531875,False
+i do feel terribly remourseful that i didnt stay faithful to my plans and get him sooner,2,Love,1,Joy,0.3060903507590592,0.2810003898492508,0.025089960909808418,False
+i should stop reading sids blogs but it is part of my blogging community and i feel that in supporting each other we get better at handling grief and hence i am not going to stop,2,Love,1,Joy,0.3495281278201334,0.3451218638942107,0.004406263925922749,False
+i replied feeling strange at giving the orders,5,Surprise,4,Fear,0.39178226666839117,0.32371807542027137,0.0680641912481198,False
+im feeling too tortured to write today,4,Fear,3,Anger,0.3912013184532122,0.3711158868148085,0.020085431638403706,False
+i feel that working together and supporting each other as a whole i can represent a larger younger voice in politics what can i say to that,2,Love,1,Joy,0.37602008138938575,0.17564185933641419,0.20037822205297157,False
+im not sure if its just me who feels this way or if its everyone but tortured souls dont make for the best boyfriends,3,Anger,4,Fear,0.3744622592263647,0.28444330051016564,0.09001895871619908,False
+i ran errands to buy cora a few newborn sized sleepers i had not previously made any newborn sized babies and went out to lunch to celebrate how great i was feeling i feel amazing no pain no pain meds and moving around almost completely normally at days out,5,Surprise,1,Joy,0.32837001645459707,0.21148396511962192,0.11688605133497515,False
+i just feel its one of those things you dont talk about too much because then too many people come to know and then the plan doesnt taste as sweet nor does it feel like a plan,2,Love,1,Joy,0.311257932906912,0.25272458128490993,0.05853335162200207,False
+i feel shame in a strange way,5,Surprise,4,Fear,0.3827037619416543,0.2162994649926327,0.1664042969490216,False
+i feel that sometimes i ve been distracted and neglectful i am thankful that this is not about adding another box to check in my otherwise busy days,3,Anger,1,Joy,0.3396456715561303,0.2578212533036451,0.08182441825248521,False
+i have found myself overwhelmed with jealousy and self contempt and i have found myself feeling this towards the lives of my sweet friends and acquaintances as portrayed on social media,2,Love,3,Anger,0.2908221646306464,0.24648872430313087,0.044333440327515544,False
+i would always have this song stuck in my head after a bombing or incident and then i would feel a bit weird about it because if you dont really pay attention to the lyrics it sounds like such a happy song not the type youre supposed to hum on difficult days,4,Fear,5,Surprise,0.322426003600184,0.22478612599471737,0.09763987760546661,False
+i feel particularly uncomfortable with how much a driver is looking down on the phone i shout eyes on the prize,4,Fear,1,Joy,0.3769671446762312,0.2991485361909773,0.0778186084852539,False
+i mean the idea is intoxicating of course and it feels amazing when its happening but what happens in the morning when you wake up and you have to go to work and so amp so is all up in your shit about something that is completely impractical,5,Surprise,1,Joy,0.3162229404008198,0.24581849131214112,0.07040444908867866,False
+i have to keep fighting for my life until i truly run out of fight and i ve been close enough to that twice to know a bit about what it feels like and we re not there yet no matter how despairing all this feels,0,Sadness,1,Joy,0.3448368373655497,0.16741143171432835,0.17742540565122136,False
+at a party i met a girl who drew me to her,3,Anger,2,Love,0.20781525887653265,0.19275971275225115,0.015055546124281505,False
+i don t really know the oldest one very well and his mothering mother seems to feel that he is not sweet,1,Joy,2,Love,0.29221089295818653,0.2368119792758289,0.05539891368235764,False
+i have come from the summer time and feeling like coach hated me,3,Anger,0,Sadness,0.2343968623959439,0.2299211129534453,0.004475749442498594,False
+i just keep on feeling blessed,2,Love,1,Joy,0.3776469683087605,0.23188138499022193,0.14576558331853856,False
+i don t know about you but i m feeling amp blessed,1,Joy,2,Love,0.2724340224799465,0.20755533016637145,0.06487869231357507,False
+i set aside that feeling and happily helped them now that every thing was been normalized and the students had liked me they change my schedule and i am just forgotten to oblivion,2,Love,0,Sadness,0.2589488306330992,0.21383109960781385,0.04511773102528535,False
+i decide that picking the easy route would get me nowhere and i feel like other people want me tortured so i follow the blue path,4,Fear,3,Anger,0.29816670099276626,0.2206331633926105,0.07753353760015577,False
+i wish i could do that chinese bite on my finger so you feel the pain miles away thing but upon some reflection perhaps that wouldnt be very considerate,2,Love,1,Joy,0.3202784535478708,0.16334866776629017,0.15692978578158065,False
+i could have expected in every way and i was feeling a bit overwhelmed at that point how quickly life changed in the past weeks,4,Fear,5,Surprise,0.35605946258432286,0.27741073929904475,0.07864872328527811,False
+i suppose we all feel a little inhibited when it comes to picking up the phone and calling someone we re not very close to anymore,0,Sadness,4,Fear,0.3483473629863835,0.24511497547257238,0.10323238751381114,False
+i felt it had a slight bitterness in the finish that detracted from its oily mouthfeel and sweet entry,1,Joy,3,Anger,0.31648217637695847,0.30596713718611396,0.01051503919084451,False
+i wont lie this week has been abit of a difficult week for me ive been feeling very stressed and anxious this week plus i think im coming down with the flu but it has definately helped me to appreciate the little things,3,Anger,0,Sadness,0.3405475766069611,0.28791192453009634,0.05263565207686477,False
+i just tell people i feel like one sweet southern mess right now,1,Joy,2,Love,0.342661906806634,0.16600914966064814,0.17665275714598586,False
+i did feel slightly weird in that costume,4,Fear,5,Surprise,0.3740171454870948,0.28557306062614646,0.08844408486094835,False
+i don t know how else to describe it except to say that i had the same feeling about three weeks before my beloved grandmother passed away,1,Joy,0,Sadness,0.3052122583237098,0.30065965652771254,0.0045526017959972576,False
+i must add the crowd was similar to last night except it had a much more laid back stoner feel with supporting cast of parents escaped from their kids,2,Love,1,Joy,0.381194552315177,0.22700637530446133,0.1541881770107157,False
+i thought maybe once i started running i would feel ok,1,Joy,0,Sadness,0.29854327150026577,0.16546881322731563,0.13307445827295014,False
+i am still feeling a tad strange in those pearly whites,5,Surprise,4,Fear,0.3459698231564757,0.21369792220846498,0.1322719009480107,False
+i remember wanting to fit in so bad and feeling like no one liked me,2,Love,0,Sadness,0.32876112080008946,0.2628214050705811,0.06593971572950835,False
+i feel tortured delilahlwl am considering i had one the other day about one of my closest friends raping and killing chicks,3,Anger,4,Fear,0.3317104408499922,0.3071142139749269,0.024596226875065297,False

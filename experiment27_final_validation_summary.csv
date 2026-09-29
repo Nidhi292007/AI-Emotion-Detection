@@ -1,0 +1,7 @@
+metric,value
+Validation Accuracy,0.907
+Validation Macro F1,0.8775915787732043
+Validation Weighted F1,0.9062166581139603
+Test Accuracy,0.904
+Test Macro F1,0.8622747030435121
+Test Weighted F1,0.9034930120917766
